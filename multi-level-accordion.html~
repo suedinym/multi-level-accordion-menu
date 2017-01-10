@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Title of the document</title>
+	<link href="css/styleModified.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<header></header>
+	<nav>
+	<h1 id="accordion">Shop the Collection</h1>
+		<aside class="accordion">
+	
+			<h1>Starter & Gift</h1>
+			<div>
+				<h2>Mugs & Cups</h2>
+					<div>
+					<p>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					</ul>
+					</p>
+					</div>
+					<h2>Easy Gifts</h2>
+					<div>
+					<p>
+					<ul>
+				
+					<li><a href="#">Coasters</a></li>
+					<li><a href="#">Starter sets</a></li>
+						<li><a href="#">Pet Bowls</a></li>
+					<li><a href="#">Gift Certificates</a></li>
+				
+					</ul>
+					</p>
+					</div>
+					</div>
+		
+		<h1>Shop by Pattern</h1>
+		<div>
+			<h2>In-Stock</h2>
+			 <div>
+					<h3>Country</h3>
+					<div>	
+					<p>
+					<ul>
+					<li><a href="#">Horse</a></li>
+					<li><a href="#">Cow</a></li>
+					<li><a href="#">Pig</a></li>
+					<li><a href="#">Lamb</a></li>
+					<li><a href="#">House</a></li>
+					<li><a href="#">Cat</a></li>
+					<li><a href="#">Dog</a></li>
+					<li><a href="#">Rabbit</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">Turtle</a></li>
+					<li><a href="#">Farmer</a></li>
+					<li><a href="#">Wife</a></li>
+					</ul>
+					</p>
+				</div>
+					<h3>Coastal</h3>
+							<div>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					</ul>
+					</p>
+					</div>
+					<h3>Traditional</h3>
+							<div>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					</ul>
+					</p>
+					</div>
+				</div>
+						<h2>Special Order</h2>
+					<div>		
+					<h3>Skier</h3>
+						<div>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					</ul>
+					</p>
+					</div>
+					<h3>Western</h3>
+						<div>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					</ul>
+					</p>
+					</div>
+					<h3>Fishing</h3>
+						<div>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					</ul>
+					</p>
+					</div>
+					<h3>Hadley Bold</h3>
+						<div>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					</ul>
+					</p>
+					</div>
+					
+						<h3>Miscellaneous</h3>
+					<div>
+					<p>
+					<ul>
+					<li><a href="#">Country Barn</a></li>
+					<li><a href="#">Country Boy</a></li>
+					<li><a href="#">Country Girl</a></li>
+					<li><a href="#">Covered Bridge</a></li>
+					<li><a href="#">Coastal Whale</a></li>
+					<li><a href="#">Fleur de lis</a></li>
+				
+					</ul>
+					</p>
+					</div>
+					</div>
+					</div>
+
+		
+			
+			
+	
+	
+			
+			
+
+			<h1>Shop by Item</a></h1>
+			
+				<div>
+				
+					<h2>Mugs & Cups</h2>
+					<div>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					</ul>
+					</p>
+					</div>
+					
+				
+					<h2>Plates</h2>
+					<div>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					</ul>
+					</p>
+					</div>
+				
+					<h2>Bowls</h2>
+						<div>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">Ramekins</a></li>
+					</ul>
+					</p>
+					</div>
+							
+					<h2>Tabletop Items</h2>
+						<div>
+					<p>
+					<ul>
+					
+					<li><a href="#">Butter Dishes</a></li>
+					<li><a href="#">Salt & Pepper</a></li>
+					<li><a href="#">Cream & Sugar</a></li>
+					
+					</ul>
+					</p>
+					</div>
+		
+					<h2>Serving ware</h2>
+						<div>
+					<p>
+					<ul>
+					<li><a href="#">Platters</a></li>
+					<li><a href="#">Serving Bowls</a></li>
+					<li><a href="#">Gravy Boats</a></li>
+					<li><a href="#">Pitchers</a></li>
+					</ul>
+					</p>
+					</div>
+				
+					<h2>Kitchenware</h2>
+						<div>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					</ul>
+					</p>
+					</div>
+				
+					</div>
+						<h1>Seasonal</h1>
+						<div>
+		         	<h2>Christmas</h2>
+							<div>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+					</ul>
+					</p>
+					</div>
+						<h2>Seasonal Items</h2>
+							<div>
+					<p>
+					<ul>
+					<li><a href="#">Easter</a></li>
+					<li><a href="#">Mother's Day</a></li>
+					<li><a href="#">Summer</a></li>
+					<li><a href="#">Halloween</a></li>
+					<li><a href="#">Thanksgiving</a></li>
+				
+					</ul>
+					</p>
+					</div>
+					</div>
+				
+			
+			<h1>Personalized</h1>
+			
+					<div>
+					<p>
+					<ul>
+					<li><a href="#">Wedding & Anniversary</a></li>
+					<li><a href="#">Birth Plates</a></li>
+					<li><a href="#">Children's Sets</a></li>
+					<li><a href="#">Mugs</a></li>
+					<li><a href="#">Pet Items</a></li>
+					<li><a href="#">Home Accessories</a></li>
+					<li><a href="#">Coasters</a></li>
+					</ul>
+					</p>
+					</div>
+			
+					
+			<h1>Discounted</h1>
+						<div>
+					<p>
+					<ul>
+					<li><a href="#">item</a></li>
+					<li><a href="#">item</a></li>
+				
+					</ul>
+					</p>
+					</div>
+								<h1>Custom</h1>
+			
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+		</aside>
+	</nav>
+	<script src="js/jquery-1.9.1.min.js">
+	</script>
+	<footer></footer>
+	<script src="js/accordionScript.js">
+	</script>
+</body>
+</html>
